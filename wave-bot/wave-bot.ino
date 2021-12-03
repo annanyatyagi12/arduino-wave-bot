@@ -1,5 +1,4 @@
 #include <Servo.h>
-//test for git ...
 Servo myservo; // create servo object to control a servo
 
 // defines variables
